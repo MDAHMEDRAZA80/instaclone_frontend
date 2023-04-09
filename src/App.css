@@ -1,0 +1,61 @@
+a{
+  color:black !important
+}
+
+.logo{
+  margin-top: 10px;
+  width: 300px;
+  height: 50px;
+}
+
+.camera{
+  margin-top: 10px;
+  width: 40px;
+  height: 40px;
+}
+
+.mycard{
+  margin: 30px;
+}
+
+.auth-card{
+  padding: 20px;
+  text-align: center;
+  max-width: 400px;
+  margin: 100px auto;
+}
+
+.gallary{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.gallary img{
+  margin: 5px;
+}
+
+.item{
+  width: 30%;
+}
+
+.home-card{
+  margin: 30px auto;
+  max-width: 500px;
+  height: max-content;
+  
+}
+
+.card{
+  margin: 10px auto;
+  max-width: 500px;
+  padding: 20px;
+  text-align: center;
+}
+
+
+#toast-container{
+  top: 30px;
+  right: 20px;
+  left:auto
+}
